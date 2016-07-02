@@ -11,7 +11,7 @@
 	<property name="ws.jars" value="G:\Software Downloads\jars"/>
     <property name="test.dest" value="${ws.home}/build"/>
     <property name="test.src" value="${ws.home}/src"/>
-	<property name="test.reportsDir" value="G:\Software Downloads\rep"/>
+	<property name="test.reportsDir" value="C:\Users\Debar\workspace\POMWithPageFactory\reports"/>
 
 	
 

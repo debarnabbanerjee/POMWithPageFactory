@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="LAPTOP-MKHIF20I" id="0" name="SuiteRunner" package="testCases" skipped="0" tests="4" time="105.7" timestamp="2016-07-02T19:13:31">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-MKHIF20I" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="start.time" value="07/02/2016 09:13 PM" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="test.reportsDir" value="C:\Users\Debar\workspace\POMWithPageFactory\reports" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\classes" />
+
+          <property name="ws.home" value="C:\Users\Debar\workspace\POMWithPageFactory" />
+
+          <property name="env.COMPUTERNAME" value="LAPTOP-MKHIF20I" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="TODAY" value="July 2 2016" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin\.." />
+
+          <property name="java.runtime.version" value="1.8.0_91-b15" />
+
+          <property name="env.HOMEPATH" value="\Users\Debar" />
+
+          <property name="test.classpath" value="G:\Software Downloads\jars\apache-mime4j-0.6.jar:G:\Software Downloads\jars\bsh-2.0b4.jar:G:\Software Downloads\jars\cglib-nodep-2.1_3.jar:G:\Software Downloads\jars\commons-codec-1.10.jar:G:\Software Downloads\jars\commons-exec-1.3.jar:G:\Software Downloads\jars\commons-io-2.4.jar:G:\Software Downloads\jars\commons-logging-1.2.jar:G:\Software Downloads\jars\gson-2.3.1.jar:G:\Software Downloads\jars\guava-19.0.jar:G:\Software Downloads\jars\hamcrest-core-1.3.jar:G:\Software Downloads\jars\hamcrest-library-1.3.jar:G:\Software Downloads\jars\httpclient-4.5.1.jar:G:\Software Downloads\jars\httpcore-4.4.3.jar:G:\Software Downloads\jars\httpmime-4.5.jar:G:\Software Downloads\jars\jcommander-1.48.jar:G:\Software Downloads\jars\jna-4.1.0.jar:G:\Software Downloads\jars\jna-platform-4.1.0.jar:G:\Software Downloads\jars\junit-4.12.jar:G:\Software Downloads\jars\netty-3.5.7.Final.jar:G:\Software Downloads\jars\phantomjsdriver-1.2.1.jar:G:\Software Downloads\jars\selenium-java-2.53.0-srcs.jar:G:\Software Downloads\jars\selenium-java-2.53.0.jar:G:\Software Downloads\jars\testng-6.9.9.jar" />
+
+          <property name="user.name" value="Debar" />
+
+          <property name="ant.file.type.Module_Junit_Ant" value="file" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin" />
+
+          <property name="ant.project.default-target" value="usage" />
+
+          <property name="ant.project.name" value="Module_Junit_Ant" />
+
+          <property name="DSTAMP" value="20160702" />
+
+          <property name="java.version" value="1.8.0_91" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 61 Stepping 4, GenuineIntel" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\Users\Debar\AppData\Local\Temp" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="env.=G:" value="G:\" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\endorsed" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_91\bin\java.exe" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_91\jre" />
+
+          <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+
+          <property name="env.APPDATA" value="C:\Users\Debar\AppData\Roaming" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="C:\Users\Debar\workspace\POMWithPageFactory\build.xml" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="env._USE_CLASSPATH" value="no" />
+
+          <property name="env.configsetroot" value="C:\WINDOWS\ConfigSetRoot" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.91-b15" />
+
+          <property name="env.USERPROFILE" value="C:\Users\Debar" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_91" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\Users\Debar\AppData\Local\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp437" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\Debar" />
+
+          <property name="test.dest" value="C:\Users\Debar\workspace\POMWithPageFactory/build" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.M2_HOME" value="G:\Software Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_91\bin;G:\Software Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin;." />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner testCases.SuiteRunner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Debar\workspace\POMWithPageFactory\reports\TEST-testCases.SuiteRunner.xml crashfile=C:\Users\Debar\workspace\POMWithPageFactory\junitvmwatcher6787260043231239303.properties propsfile=C:\Users\Debar\workspace\POMWithPageFactory\junit5051848051003719508.properties" />
+
+          <property name="java.class.path" value="C:\Users\Debar\workspace\POMWithPageFactory\build;G:\Software Downloads\jars\apache-mime4j-0.6.jar;G:\Software Downloads\jars\bsh-2.0b4.jar;G:\Software Downloads\jars\cglib-nodep-2.1_3.jar;G:\Software Downloads\jars\commons-codec-1.10.jar;G:\Software Downloads\jars\commons-exec-1.3.jar;G:\Software Downloads\jars\commons-io-2.4.jar;G:\Software Downloads\jars\commons-logging-1.2.jar;G:\Software Downloads\jars\gson-2.3.1.jar;G:\Software Downloads\jars\guava-19.0.jar;G:\Software Downloads\jars\hamcrest-core-1.3.jar;G:\Software Downloads\jars\hamcrest-library-1.3.jar;G:\Software Downloads\jars\httpclient-4.5.1.jar;G:\Software Downloads\jars\httpcore-4.4.3.jar;G:\Software Downloads\jars\httpmime-4.5.jar;G:\Software Downloads\jars\jcommander-1.48.jar;G:\Software Downloads\jars\jna-4.1.0.jar;G:\Software Downloads\jars\jna-platform-4.1.0.jar;G:\Software Downloads\jars\junit-4.12.jar;G:\Software Downloads\jars\netty-3.5.7.Final.jar;G:\Software Downloads\jars\phantomjsdriver-1.2.1.jar;G:\Software Downloads\jars\selenium-java-2.53.0-srcs.jar;G:\Software Downloads\jars\selenium-java-2.53.0.jar;G:\Software Downloads\jars\testng-6.9.9.jar;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-launcher.jar;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant.jar;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-junit.jar;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant-junit4.jar" />
+
+          <property name="TSTAMP" value="2113" />
+
+          <property name="ws.jars" value="G:\Software Downloads\jars" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="env.ANT_HOME" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin\.." />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.PROCESSOR_REVISION" value="3d04" />
+
+          <property name="java.io.tmpdir" value="C:\Users\Debar\AppData\Local\Temp\" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="test.src" value="C:\Users\Debar\workspace\POMWithPageFactory/src" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value=" clean compile run" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\Debar\workspace\POMWithPageFactory" />
+
+          <property name="env.MAVEN_HOME" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\Debar\AppData\Local" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="ANT" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin\../bin/ant.bat" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.Path" value="C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_91\bin;G:\Software Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin" />
+
+          <property name="basedir" value="C:\Users\Debar\workspace\POMWithPageFactory" />
+
+          <property name="env.easyplussdk" value="&quot;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin&quot;" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="C:\Users\Debar\Downloads\apache-ant-1.9.7-bin\apache-ant-1.9.7\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="Debar" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="sun.stderr.encoding" value="cp437" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.USERDOMAIN" value="LAPTOP-MKHIF20I" />
+
+          <property name="ant.file.Module_Junit_Ant" value="C:\Users\Debar\workspace\POMWithPageFactory\build.xml" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="env.=C:" value="C:\Users\Debar\workspace\POMWithPageFactory" />
+
+          <property name="ant.project.invoked-targets" value="clean,compile,run" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+      </properties>
+
+      <testcase classname="testCases.LoginTestCase" name="loginTest[0]" time="13.362" />
+
+      <testcase classname="testCases.LoginTestCase" name="loginTest[1]" time="40.572">
+          <failure message="Login Failed" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Login Failed
+	at testCases.LoginTestCase.loginTest(LoginTestCase.java:70)
+</failure>
+
+      </testcase>
+
+      <testcase classname="testCases.bookFlightTestCase" name="bookFlight[0]" time="28.175" />
+
+      <testcase classname="testCases.bookFlightTestCase" name="bookFlight[1]" time="23.464" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[Starting ChromeDriver (v2.9.248315) on port 35673
+Starting ChromeDriver (v2.9.248315) on port 14355
+Starting ChromeDriver (v2.9.248315) on port 40879
+Starting ChromeDriver (v2.9.248315) on port 41925
+]]></system-err>
+
+  </testsuite>
+</testsuites>
